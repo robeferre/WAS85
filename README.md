@@ -6,9 +6,6 @@ Requirements
 ------------
 - 7gb of free space
 
-Commands to execute:
----------------------
-- Install => 
 
 ### Platforms
 Tested on:
